@@ -2,10 +2,10 @@
   "name": "free-time",
   "version": "2.0.0",
   "description": "cinemania team project",
-  "homepage": "https://ViktorSvertoka.github.io/free-time",
+  "homepage": "https://GoitStudentsWorks.github.io/js_74_ViktorSvertoka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /free-time/"
+    "build": "parcel build src/*.html --public-url /js_74_ViktorSvertoka/"
   },
   "repository": {
     "type": "git",
